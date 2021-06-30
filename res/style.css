@@ -52,7 +52,7 @@ button {
     width: 100%;
     margin: auto;
     padding: 165px 15px 15px;
-    background: url(macbook.png) center top no-repeat;
+    background: url(favicon.png) center top no-repeat;
     background-size: 180px;
 }
 
@@ -102,7 +102,7 @@ button {
     display: inline-block;
     width: 100%;
     height: 280px;
-    background-image: url(macbook.png);
+    background-image: url(ken.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: contain;
